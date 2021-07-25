@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "login": "teste",
+      "password": "teste",
+      "name": "teste",
+      "access_token": "liberado"
+    }
+  ],
+  "products": [
+    {
+      "image": "https://i.imgur.com/ObHbDPJ.png",
+      "name": "bolsa",
+      "description": "rosa",
+      "price": 140,
+      "id": 5
+    },
+    {
+      "image": "https://i.imgur.com/ObHbDPJ.png",
+      "name": "tenis",
+      "description": "rosa e axul",
+      "price": 20,
+      "id": 6
+    },
+    {
+      "image": "C:\\fakepath\\amarelo.png",
+      "name": "teste",
+      "description": "teste",
+      "price": 30,
+      "id": 7
+    },
+    {
+      "image": "",
+      "name": "Oculos de sol",
+      "description": "Oculos escuros UV",
+      "price": 120,
+      "id": 8
+    }
+  ]
+}
